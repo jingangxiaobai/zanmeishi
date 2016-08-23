@@ -1,0 +1,5 @@
+.mainL728 .bar ul{padding:12px 14px;}
+.mainL728 .bar ul li{line-height: 35px; border-bottom:1px dotted #ccc; overflow: hidden;}
+.mainL728 .bar ul li a{display: block; float: left; width: 313px;}
+.mainL728 .bar ul li a:nth-child(2){text-align: right;}
+.mainL728 .bar ul li span{display: block; float: right;}

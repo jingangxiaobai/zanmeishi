@@ -1,0 +1,50 @@
+.indexBanner{position: relative;  border:1px solid; width: 746px; height: 328px; overflow: hidden;}
+.indexBanner .lt{position:absolute;font-size: 50px; color:#000; opacity: .5; top: 120px; left: 20px; z-index: 99;}
+.indexBanner .rt{position:absolute;font-size: 50px; color:#000; opacity: .5; top: 120px; right: 20px; z-index: 99;}
+.indexBanner .lt,.indexBanner .rt{text-shadow:0 0 9px #fff; display: none;}
+.indexBanner .pic{width:2984px;}
+.indexBanner .pic li{float: left;}
+.indexBanner .num{position:absolute; right: 50px; bottom:30px;}
+.indexBanner .num li{float: left; width: 20px; height: 20px; border-radius: 50%; background:#fff; color: #666; opacity: .7; text-align: center; line-height: 20px; margin-right:7px;}
+.indexBanner .num li.current{background: #5a8ec4; color:#fff;}
+.mainR .title{font-size: 16px; line-height: 21px;}
+.mainR .twoBtn{padding: 10px 0; border-bottom:1px solid #e5e5e5; margin:0 -10px 10px 0;}
+.mainR .twoBtn a{display:inline-block; width: 105px; height: 38px; background:#5a8ec4; line-height: 38px; margin-right: 10px; color: #fff; font-size: 14px;}
+.mainR h3{font-size: 16px; line-height: 39px;}
+.mainR .tools{margin-right:-10px;}
+.mainR .tools a{color:#000; display:block; float: left; width: 105px; height: 30px; background:#ebebeb;line-height: 30px; margin:1px 10px 0 0;}
+.indexMainR{height: 311px; background-image:url("../images/赞美诗loginMainR_08.jpg"); background-position:bottom left; background-repeat: no-repeat; background-color: #fff;}
+.itemPu{width: 367px;}
+.item .greenH2{font-size: 16px; color: #060; line-height:35px; background:#efefef;overflow: hidden;}
+.item ul{padding:9px;}
+.item ul li{overflow: hidden;}
+.itemPu li:nth-child(odd){background: url("../images/赞美诗pu_13.jpg") no-repeat 0 10px;}
+.itemPu li:nth-child(even){background: url("../images/赞美诗pu_16.jpg") no-repeat 0 10px;}
+.item ul a{display:block; line-height:36px; float: left;}
+.item ul .music{padding-left:24px; width: 140px;}
+.item ul .atist{float: right;}
+.item ul li:hover{border-bottom: 1px solid #ccc;}
+.item ul li:hover a{line-height: 34px; padding-top: 1px;}       /* 跳动 */
+
+.marR{margin-right:10px;}
+.playList{width: 368px;}
+.playList .greenH2{height: 35px;}
+.greenH2 span{float: left; line-height:36px; color: #5a8ec4; font-size: 16px; padding-left: 9px; }
+.playList .greenH2 span:nth-child(1){width:170px;}
+.playList .greenH2 span:nth-child(2),.playList .greenH2 span:nth-child(3){margin-top: 5px;}
+.playList .greenH2 span:nth-child(2){padding-left:24px; background: url("../images/赞美诗playBtn_06.jpg") no-repeat;width:125px; height: 26px; line-height: 26px; font-size: 12px;}
+
+.item .ulBj{background: url("../images/playlistUlBj_03.png") no-repeat 9px 20px;}
+.playList li .atist{float:left; width: 160px;}
+.item li span{line-height:36px; color: #060; font-size: 16px;}
+.item ul li:hover span{line-height:35px;}
+.loadList{width: 238px; float: right; margin-bottom: 12px; border:1px solid; background: #fff;}
+.loadList .greenH2 span{width:110px;}
+.loadList .greenH2 span.actived{background: #ddd;}
+.recommend .commendA li,.recommend .commendB li{background: url("../images/赞美诗commendLiBj_09.jpg") no-repeat 0 10px;}
+.classes{height:414px;}
+.classes dl{padding:0 9px; overflow: hidden;}
+.classes dt{font-size: 16px; color: #060; line-height: 36px;}
+.classes dd{float: left; width: 30%;line-height: 34px; font-size: 12px;}
+.link{font-size: 16px; color:#5a8ec4; line-height:35px;font-weight: bold;}
+.linkItem a{display:block; float: left; margin-right:14px; font:bold 12px/24px "微软雅黑";  color: #999;}

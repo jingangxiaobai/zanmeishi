@@ -1,0 +1,6 @@
+.mainL728 .newsList{padding:5px 0;}
+.mainL728 .newsList li{overflow: hidden; height: 36px; line-height: 36px;}
+.mainL728 .newsList li.enter{background:#999; color: #fff;}
+.mainL728 .newsList li.enter a{ color: #fff;}
+.mainL728 .newsList li a{color:#666; float: left;}
+.mainL728 .newsList li span{color:#ccc; float: right;}

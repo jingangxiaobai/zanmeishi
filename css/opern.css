@@ -1,0 +1,11 @@
+
+.mainL728 .bar ul{overflow: hidden; padding: 12px 14px; margin-right:-80px; background: url("../images/吉他谱barBj_06.jpg") no-repeat 45% top;}
+.mainL728 .bar ul li{float: left; width: 309px; border-bottom:1px dotted #ddd; margin-right: 80px;}
+.mainL728 .bar ul li a{line-height:35px;}
+.mainL728 .bar ul li a:first-child{float:left; color:#5a8ec4;}
+.mainL728 .bar ul li a:last-child{float:right; color:#999;}
+.mainRight .mvMemo{padding:0 8px 18px;}
+.mvMemo .mvOne,.mvMemo .mvTwo{display:block; margin: 11px 0;}
+.mvMemo h4{line-height: 18px;}
+.mvMemo h4 a{color:#5a8ec4;}
+

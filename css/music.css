@@ -1,0 +1,16 @@
+.titleBar{background: #e6e6e6; height: 66px; border-bottom: 1px solid #ccc; padding:22px 20px;}
+.titleBar h2{float: left;}
+.titleBar h2 a{display:block;line-height: 33px; font-size: 24px; color: #5a8ec4;}
+.titleBar .share{float: right; overflow: hidden;}
+.titleBar .share a,.titleBar .share a img{float: left;}
+.titleBar .share a{margin-left:5px;}
+.history{height: 25px; line-height: 30px;}
+.history p{float: right;  color: #777;}
+.history p a{ color: #777;}
+.musicCtrl{position: relative;}
+.musicCtrl img{display: block;}
+.musicCtrl a{position:absolute;}
+.musicCtrl a.fullScreen{right: 12px; top: 16px; z-index: 10;}
+.musicCtrl a.download{right: 12px; top: 65px; z-index: 9;}
+.mv{text-align: center;}
+video { width:600px; height: 400px; margin-bottom: 40px; }

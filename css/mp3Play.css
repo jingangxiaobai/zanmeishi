@@ -1,0 +1,27 @@
+.mp3Tab{border-left:2px solid #333; width: 702px; overflow: hidden;}
+.mp3TabL{width: 291px; float: left;}
+
+.mp3TabL .nav{height: 32px; border-bottom:2px solid #333;}
+.mp3TabL .nav li{float: left; width: 97px; background: #e6e6e6; text-align: center; line-height:32px; }
+.mp3TabL .nav li.select{background: #333; color:#fff;}
+.listToggle1 ul{padding:1px 0;}
+.listToggle1 li{height: 31px; line-height: 31px; padding: 0 9px;}
+.listToggle1 li input{float: left;margin:9px 9px 0 0;}
+.listToggle1 li a.music{float: left;}
+.listToggle1 li a.artist{float: right;}
+.edit{text-align: center; line-height:25px;}
+.edit .page,.edit .editor{height:25px; padding:6px; background: #333;}
+.edit .page{border-bottom:1px solid #666;}
+.edit .page select,.edit .page span{float: left; width: 58px; height: 25px; }
+.edit .page span{color: #fff;}
+.edit .pageBtn{float: right; padding-right: 6px;}
+.edit .pageBtn input{border:none; float: left; width: 58px; height: 25px; margin-left: 5px;}
+.edit .editor input{float: left; margin-right: 5px; height: 25px; border:none;}
+.edit .editor .all,.edit .editor .del{width: 58px; }
+.edit .editor .collect{width: 70px;}
+.mp3TabR{height: 572px; width: 407px; border:2px solid #333;float: right;}
+.mp3TabR .top{height: 33px; line-height: 33px; background: #333;}
+.mp3TabR .top .music{float: left; padding-left: 12px;}
+.mp3TabR .top .artist{float: right; color: #ccc; padding-right: 12px;}
+.mp3TabR .playCtrl{height: 71px; background: #5a8ec4; opacity: .5; padding:20px 10px 10px;}
+
